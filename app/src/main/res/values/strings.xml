@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="screen_placeHolder"> This is a Screen Placeholder</string>
+    <string name="message_placeHolder"> This is a Message</string>
+    <string name="news_placeHolder"> This is a News</string>
+    <string name="date_placeHolder">MMM dd , YYYY</string>
+    <string name="author">John Doe</string>
+    <string name="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fringilla turpis convallis arcu posuere, ut mattis enim hendrerit. In eget turpis accumsan, scelerisque justo non</string>
+    <string name="heading">Donec lectus elit, facilisis eget hendrerit eu, vulputate ut lectus. Integer elit magna, blandit sit amet gravida convallis, consequat gravida urna. Morbi lacus tellus,</string>
+    <string name="posts">Posts</string>
+    <string name="news">News</string>
+    <string name="message">Message</string>
+    <string name="add_notification">Add Notification</string>
+    <string name="add_m_notification">Add Message Notification</string>
+
+
+
+</resources>
